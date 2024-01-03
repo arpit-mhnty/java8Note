@@ -1,5 +1,5 @@
 Java-8 note:
-# it have StringJoiner class where u join multiple string using , - and other option also provided
+## it have StringJoiner class where u join multiple string using , - and other option also provided
 # function:- add(null(bydefault)
           merge(new StringJoiner(,));
           length();
