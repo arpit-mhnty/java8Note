@@ -8,7 +8,7 @@
           length();
           setEmptyValue("default value if string is null");
 ```
-> StringJoiner str=new StringJoiner(",","[","]");- here firts one one diveed and second is prefix,3rd one is suffix <br>
+> StringJoiner str=new StringJoiner(",","[","]");- here firts one one diveed and second is prefix,3rd one is suffix <br />
 > str.toString()-to make stringJoiner to string
 >  example
 [ java8Note/StringJoiner.java ]
