@@ -8,9 +8,9 @@
           length();
           setEmptyValue("default value if string is null");
 ```
-> StringJoiner str=new StringJoiner(",","[","]");- here firts one one diveed and second is prefix,3rd one is suffix
+> StringJoiner str=new StringJoiner(",","[","]");- here firts one one diveed and second is prefix,3rd one is suffix <br>
 > str.toString()-to make stringJoiner to string
-> example
-( /stringjoiner.java )
+>  example
+[ java8Note/StringJoiner.java ]
 > Arrays.parallelSort(referance of an arrays,first index,last index)-it will sort based on index 
 
